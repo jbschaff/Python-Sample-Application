@@ -3,7 +3,7 @@
     "authorize_url": "https://login.uber.com/oauth/z0CPgI_2hVsLODiN6UWBYbD8KTEZSU74LRohgP1O",
     "base_url": "https://login.uber.com/",
     "scopes": ["profile", "history_lite"],
-    "name": "Sample app",
+    "name": "Go Drunk You're Home",
     "base_uber_url": "https://api.uber.com/v1/",
     "base_uber_url_v1_1" : "https://api.uber.com/v1.1/",
     "start_latitude": "37.781955",
